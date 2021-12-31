@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<--기술-->
+<!-- 기술 -->
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
