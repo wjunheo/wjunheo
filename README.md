@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taleofus"></div>
 
 
 
@@ -28,6 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MyBatis-C41E25?style=flat-square&logo=Thunderbird&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP-black?style=flat-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/MSSQL-4479A1?style=flat-square&logo=MSSQL&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Servlet-008CDD?style=flat-square&logo=Stripe&logoColor=white">
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>-->
 <!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>-->
